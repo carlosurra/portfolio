@@ -1,3 +1,7 @@
+PORTFOLIO
+putting into practice what I learned in the bootcamp developing a personal project with my work as a graphic designer
+
+
 # Portfolio
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
